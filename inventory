@@ -1,3 +1,6 @@
+[dbservers]
 192.168.164.6 ansible_python_interpreter=/usr/bin/python3
+
+[fileservers]
 192.168.164.8 ansible_python_interpreter=/usr/bin/python3
 
